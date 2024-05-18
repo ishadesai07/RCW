@@ -1,4 +1,4 @@
-# RCW --ROTARACT CLUB WEBSITE(CHARUSAT UNIVERSITY)
+# RCW --ROTARACT CLUB WEBSITE ### (CHARUSAT UNIVERSITY)
 This website is based on the social service club which also brings people together to exchange ideas with leaders in the community, develop leadership and professional skills, and have fun through service.
 
 ## Contribution
